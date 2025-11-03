@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! I'm Carlos — Full Stack Developer</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/197354997?v=4" alt="Banner" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/197354997?v=4" alt="Banner" />
 </p>
 
 <p align="center">
