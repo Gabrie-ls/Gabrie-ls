@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! I'm Carlos — Full Stack Developer</h1>
 
 <p align="center">
-  <img src="[[https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Carlos+-+Full+Stack+Developer](https://cdn.discordapp.com/attachments/1346726774754508864/1434961111614226533/IMG-20251103-WA0044.jpg?ex=690a3b2d&is=6908e9ad&hm=7a47aad1cb6a73c86e28566324e32ac4e6ecb577b12c31e86e7888493c180d72&)](https://avatars.githubusercontent.com/u/197354997?v=4)" alt="Banner" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/197354997?v=4" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
